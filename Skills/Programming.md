@@ -1,39 +1,39 @@
 ## Programming fundamental concepts
 
 - Syntax and concepts
-  - value
+  - value: 🎓 known
   - identifier
   - variable
-  - constant
+  - constantd
   - scalar
   - literal
   - expression
   - heap
-  - function
+  - function: 🖐️ used
   - procedure
   - method
-  - class
+  - class: 👂 heard
   - prototype
   - event
   - type
   - primitive types
   - reference types
-  - flag
+  - flag: 👂 heard
   - lexical scope
   - code block
   - conditions
-  - loops
-  - assignment
-  - regular expression
-  - interface
+  - loops: 🖐️ used
+  - assignment: 🖐️ used
+  - regular expression: 🖐️ used
+  - interface: 👂 heard
   - contract
-  - module
-  - call stack
+  - module: 👂 heard
+  - call stack: 👂 heard
 - Functions
   - signature
   - argument
   - parameter
-  - pure function
+  - pure function: 🖐️ used
   - lambda expression
   - side effects
   - closure
@@ -41,11 +41,11 @@
   - curry
   - higher order
   - recursion
-  - callback
+  - callback: 👂 heard
   - listener
   - compose
   - pipe
-  - memoize
+  - memoize: 🎓 known
   - wrapper
   - functor
   - monad
@@ -53,14 +53,14 @@
   - generator
   - coroutine
 - Data structures
-  - array
-  - structure
+  - array: 👂 heard
+  - structure: 👂 heard
   - record
   - enum
   - instance
-  - object
-  - class
-  - collection
+  - object: 🎓 known
+  - class: 👂 heard
+  - collection: 👂 heard
   - set
   - hash table
   - linked list
@@ -70,37 +70,37 @@
   - queue
   - stack
   - deque
-  - tree
-  - graph
+  - tree: 👂 heard
+  - graph: 🖐️ used
   - iterator
   - mutable state
   - immutable state
   - serialization
   - string parsing
 - Process & style
-  - compiler
-  - transpiler
+  - compiler: 🖐️ used
+  - transpiler: 🎓 known
   - linter
-  - polyfill
-  - debugger
-  - garbage collection
-  - refactoring
-  - code review
-  - antipatterns
-  - paradigm
-  - algorithm
-  - magic numbers
-  - hardcode
-  - complexity
-  - decomposition
-  - spaghetti
+  - polyfill: 👂 heard
+  - debugger: 🖐️ used
+  - garbage collection: 🖐️ used
+  - refactoring: 🖐️ used
+  - code review: 🖐️ used
+  - antipatterns: 🖐️ used
+  - paradigm: 🖐️ used
+  - algorithm: 🖐️ used
+  - magic numbers: 🖐️ used
+  - hardcode: 🖐️ used
+  - complexity: 🖐️ used
+  - decomposition: 🖐️ used
+  - spaghetti: 🖐️ used
   - silver bullet
-  - not invented here
-  - dead code
-  - unreachable code
-  - duplicate code
-  - exception
-  - return early
+  - not invented here: 🖐️ used
+  - dead code: 🖐️ used
+  - unreachable code: 🖐️ used
+  - duplicate code: 🖐️ used
+  - exception: 🖐️ used
+  - return early: 🖐️ used
   - unittest
-  - git
-  - github
+  - git: 🖐️ used
+  - github: 🖐️ used
