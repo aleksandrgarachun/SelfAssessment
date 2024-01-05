@@ -1,33 +1,33 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
-  - Stateful and stateless servers
+  - Strong and weak sides of node.js: 👂 heard
+  - Stateful and stateless servers: 👂 heard
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
-  - Node.js LTS schedule
+  - Garbage collection: 🎓 known
+  - Node.js LTS schedule: 👂 heard
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules
-  - ECMAScript modules
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 🖐️ used
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
-  - Contexts and scripts node:vm
-  - Dependencies: npm, node_modules
-  - Dependencies: package.json and package lock
+  - Contexts and scripts node:vm: 🖐️ used
+  - Dependencies: npm, node_modules: 🖐️ used
+  - Dependencies: package.json and package lock: 🖐️ used
   - Module-based permissions model
-  - Isolation with modularity
-  - Dependency injection
+  - Isolation with modularity: 🖐️ used
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments
-  - Node.js CLI
+  - Command line arguments: 👂 heard
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🎓 known
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -67,7 +67,7 @@
   - Inversion of control
   - Dependency injection
   - GRASP
-  - SOLID
+  - SOLID: 🖐️ used
   - GoF patterns
   - Distributed systems
   - Highload applications
@@ -86,15 +86,15 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
-  - TCP/SSL
-  - UDP
+  - HTTP(S): 🖐️ used
+  - TCP/SSL: 🖐️ used
+  - UDP: 🖐️ used
   - TLS
   - Websocket
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
-  - REST
+  - REST: 🖐️ used
   - RPC
   - Routing
   - DoS
@@ -102,10 +102,10 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
-  - Fetch API
+  - DNS: 🖐️ used
+  - Fetch API: 🖐️ used
   - IncomingMessage
-  - SQL injection
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - ALPN
@@ -116,55 +116,55 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable
-  - Writable
-  - Transform
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
+  - Transform: 🖐️ used
   - back pressure
   - Buffer
-  - Console
+  - Console: 🖐️ used
   - Inspector
   - Reliability
   - Quality
   - Availability
   - Flexibility
 - Data access
-  - Data access layer
-  - Repository
+  - Data access layer: 🖐️ used
+  - Repository: 🖐️ used
   - Active record
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
-  - error.cause
-  - error.code
-  - error.message
+  - Error: 🖐️ used
+  - error.cause: 🖐️ used
+  - error.code: 🖐️ used
+  - error.message: 🖐️ used
   - error.stack
-  - How to avoid mixins
+  - How to avoid mixins: 🎓 known
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🎓 known
   - Flame graph
   - Memory leaks
   - Resource leaks
-  - Data race
+  - Data race: 👂 heard
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
-  - NAPI C and C++
+  - NAPI C and C++: 👂 heard
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++: 👂 heard
   - Webassembly Rust
   - Webassembly Zig
-  - Webassembly AssemblyScript
+  - Webassembly AssemblyScript: 👂 heard
   - Shared memory
   - SharedArrayBuffer
-  - V8 binary serialization
+  - V8 binary serialization: 👂 heard
