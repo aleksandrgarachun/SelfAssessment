@@ -22,11 +22,11 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
-  - Callback-last-error-first
-  - Thenable
-  - Promise
-  - Async/await
+  - Callbacks: 👂 heard
+  - Callback-last-error-first: 👂 heard
+  - Thenable: 👂 heard
+  - Promise: 👂 heard
+  - Async/await: 👂 heard
   - Future
   - Deferred
   - Sync generator
@@ -35,8 +35,8 @@
   - Event
   - Coroutine
   - Goroutine
-  - Signal
-  - Stream
+  - Signal: 🎓 known
+  - Stream: 🎓 known
   - Chain of responsibility
   - Middleware
   - Locks
@@ -52,7 +52,7 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
+  - Async Poold
   - Async Queue
   - Async Collector
   - Semaphore
@@ -72,7 +72,7 @@
   - High resolution clock
   - Callback hell
   - Promise hell
-  - ref() and unref()
+  - ref() and unref(): 👂 heard
   - Error handling in async code
   - Better stack traces with return await
   - JSON: streaming serialization

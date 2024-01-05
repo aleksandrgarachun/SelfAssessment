@@ -6,7 +6,7 @@
   - Nonblocking I/O and slocking code
   - Event loop: phases
   - Event loop: microtasks and macrotasks
-  - Garbage collection
+  - Garbage collection: 🎓 known
   - Node.js LTS schedule
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
@@ -21,7 +21,7 @@
   - Dependencies: package.json and package lock
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection
+  - Dependency injection: 👂 heard
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
@@ -38,7 +38,7 @@
   - Crypto API
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
-  - File system API: sync and async
+  - File system API: sync and async: 🎓 known
   - Copy folder recursively
   - Worker threads
   - Performance hooks
@@ -136,7 +136,7 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 👂 heard
   - error.cause
   - error.code
   - error.message
@@ -145,14 +145,14 @@
   - Error.captureStackTrace
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 👂 heard
   - Flame graph
   - Memory leaks
   - Resource leaks
   - Data race
 - Integrations and bindings
   - Native addons
-  - C and C++ addons
+  - C and C++ addons: 👂 heard
   - Rust addons
   - Zig addons
   - NAN (Native Abstractions for Node.js)
@@ -161,7 +161,7 @@
   - NAPI Rust
   - NAPI Zig
   - Webassembly WAT
-  - Webassembly C and C++
+  - Webassembly C and C++: 👂 heard
   - Webassembly Rust
   - Webassembly Zig
   - Webassembly AssemblyScript
